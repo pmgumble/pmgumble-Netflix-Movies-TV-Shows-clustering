@@ -29,10 +29,10 @@ listed_in : Generes
 description: The Summary description
 
 Project Work flow
-Importing Libraries
-Loading the dataset
-Data Summary
-Data Cleaning & Data Analysis
-Feature selection
-Implementing different clustering methods
-Conclusion
+> Importing Libraries
+> Loading the dataset
+> Data Summary
+> Data Cleaning & Data Analysis
+> Feature selection
+> Implementing different clustering methods
+> Conclusion
