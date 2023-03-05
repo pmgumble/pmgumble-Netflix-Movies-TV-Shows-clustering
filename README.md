@@ -1,5 +1,8 @@
 # Netflix-Movies-TV-Shows-clustering
 
+![1458308-netflix](https://user-images.githubusercontent.com/96189065/222940965-77e8b6d0-96ea-4809-b81d-a974a2f03612.jpg)
+
+
 # Project Summary :
 
 This dataset consists of tv shows and movies available on Netflix as of 2019. The dataset is collected from Flixable which is a third-party Netflix search engine.
@@ -7,12 +10,12 @@ In 2018, they released an interesting report which shows that the number of TV s
 Integrating this dataset with other external datasets such as IMDB ratings, rotten tomatoes can also provide many interesting findings.
 
 
-Dataset info
+**Dataset info**
 
 Number of records: 7787
 2.Number of features: 12
 
-Features information:
+**Features information:**
 The dataset contains features like:
 
 show_id : Unique ID for every Movie / Tv Show
@@ -28,11 +31,11 @@ duration : Total Duration - in minutes or number of seasons
 listed_in : Generes
 description: The Summary description
 
-Project Work flow
-> Importing Libraries
-> Loading the dataset
-> Data Summary
-> Data Cleaning & Data Analysis
-> Feature selection
-> Implementing different clustering methods
-> Conclusion
+**Project Work flow**
+* Importing Libraries
+* Loading the dataset
+* Data Summary
+* Data Cleaning & Data Analysis
+* Feature selection
+* Implementing different clustering methods
+* Conclusion
